@@ -1,0 +1,6 @@
+{
+  "name": "Olive & Beige",
+  "description": "A complete premium, luxury restaurant website with interactive menus, online table reservations, an ordering system, an AI chat assistant, and an admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

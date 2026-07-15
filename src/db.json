@@ -1,0 +1,296 @@
+{
+  "menu": [
+    {
+      "id": "m1",
+      "name": "Artisanal Burrata & Heirloom Tomatoes",
+      "description": "Creamy Italian burrata served over marinated heirloom cherry tomatoes, drizzled with 25-year aged Modena balsamic, cold-pressed Sicilian olive oil, and topped with crispy micro-basil.",
+      "price": 24,
+      "category": "Appetizers",
+      "image": "https://images.unsplash.com/photo-1608897013039-887f21d8c804?w=600&auto=format&fit=crop&q=80",
+      "calories": 420,
+      "ingredients": ["Pugliese Burrata", "Heirloom Tomatoes", "Aged Balsamic", "Basil Oil", "Toasted Pine Nuts"],
+      "rating": 4.9,
+      "reviewsCount": 118,
+      "isBestSeller": true,
+      "isVegan": false,
+      "isGlutenFree": true,
+      "isChefSpecial": false
+    },
+    {
+      "id": "m2",
+      "name": "Rosemary Truffle Infused Angus Beef Sliders",
+      "description": "Gourmet mini prime Angus beef patties with black truffle aioli, melted aged Gruyère cheese, caramelized sweet onions, on house-baked olive-oil brioche buns.",
+      "price": 28,
+      "category": "Appetizers",
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=600&auto=format&fit=crop&q=80",
+      "calories": 680,
+      "ingredients": ["Angus Beef", "Black Truffle Aioli", "Gruyère Cheese", "Brioche Buns", "Caramelized Onions"],
+      "rating": 4.8,
+      "reviewsCount": 94,
+      "isBestSeller": false,
+      "isVegan": false,
+      "isGlutenFree": false,
+      "isChefSpecial": true
+    },
+    {
+      "id": "m3",
+      "name": "Smoked Salmon & Caviar Eggs Benedict",
+      "description": "Poached farm-fresh organic eggs over artisanal sourdough, layered with thin ribbons of premium Norwegian smoked salmon, citrus hollandaise, and topped with Royal Ossetra caviar.",
+      "price": 34,
+      "category": "Breakfast",
+      "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=600&auto=format&fit=crop&q=80",
+      "calories": 540,
+      "ingredients": ["Organic Eggs", "Norwegian Smoked Salmon", "Royal Ossetra Caviar", "Citrus Hollandaise", "Sourdough Toast"],
+      "rating": 5.0,
+      "reviewsCount": 142,
+      "isBestSeller": true,
+      "isVegan": false,
+      "isGlutenFree": false,
+      "isChefSpecial": true
+    },
+    {
+      "id": "m4",
+      "name": "Wild Mushroom & Black Truffle Pappardelle",
+      "description": "Hand-rolled egg pappardelle tossed with a rich ragout of chanterelle, porcini, and oyster mushrooms, finished with fresh shaved Umbrian black truffles and Pecorino Romano.",
+      "price": 38,
+      "category": "Mains",
+      "image": "https://images.unsplash.com/photo-1645112411341-6c4fd023714a?w=600&auto=format&fit=crop&q=80",
+      "calories": 620,
+      "ingredients": ["Hand-rolled Pappardelle", "Black Truffle", "Chanterelle Mushrooms", "Pecorino Romano", "Thyme"],
+      "rating": 4.9,
+      "reviewsCount": 215,
+      "isBestSeller": true,
+      "isVegan": false,
+      "isGlutenFree": false,
+      "isChefSpecial": true
+    },
+    {
+      "id": "m5",
+      "name": "Olive & Herb Encrusted Lamb Rack",
+      "description": "Premium Australian pasture-raised lamb roasted with an olive tapenade and rosemary-panko crust, served with a velvety parsnip purée and natural pan jus reduction.",
+      "price": 48,
+      "category": "Mains",
+      "image": "https://images.unsplash.com/photo-1514516345957-556ca7d90a29?w=600&auto=format&fit=crop&q=80",
+      "calories": 790,
+      "ingredients": ["Australian Lamb Rack", "Kalamata Olives", "Parsnip Purée", "Rosemary Crust", "Red Wine Jus"],
+      "rating": 4.9,
+      "reviewsCount": 178,
+      "isBestSeller": false,
+      "isVegan": false,
+      "isGlutenFree": false,
+      "isChefSpecial": false
+    },
+    {
+      "id": "m6",
+      "name": "A5 Wagyu Ribeye with Smoked Olive Butter",
+      "description": "Highly marbled A5 Kagoshima Wagyu beef pan-seared to medium-rare perfection, served with house-smoked green olive compound butter, Maldon sea salt, and charred broccolini.",
+      "price": 95,
+      "category": "Steaks",
+      "image": "https://images.unsplash.com/photo-1543353071-10c8ba85a904?w=600&auto=format&fit=crop&q=80",
+      "calories": 910,
+      "ingredients": ["A5 Miyazaki Wagyu", "Smoked Olive Butter", "Charred Broccolini", "Maldon Salt", "Truffle Fries"],
+      "rating": 5.0,
+      "reviewsCount": 284,
+      "isBestSeller": true,
+      "isVegan": false,
+      "isGlutenFree": true,
+      "isChefSpecial": true
+    },
+    {
+      "id": "m7",
+      "name": "Pan-Seared Chilean Sea Bass",
+      "description": "Line-caught sea bass pan-seared and bathed in an aromatic saffron-olive bouillon, accompanied by braised baby fennel, fingerling potato confit, and saline samphire.",
+      "price": 54,
+      "category": "Seafood",
+      "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=600&auto=format&fit=crop&q=80",
+      "calories": 510,
+      "ingredients": ["Chilean Sea Bass", "Saffron Bouillon", "Fennel", "Fingerling Potatoes", "Samphire"],
+      "rating": 4.8,
+      "reviewsCount": 126,
+      "isBestSeller": false,
+      "isVegan": false,
+      "isGlutenFree": true,
+      "isChefSpecial": false
+    },
+    {
+      "id": "m8",
+      "name": "Deconstructed Golden Hazelnut Rocher",
+      "description": "Decadent dark chocolate mousse sphere coated in premium gold-leaf dust, crushed caramelized Piedmont hazelnuts, milk chocolate glaze, and a liquid praline core.",
+      "price": 18,
+      "category": "Desserts",
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=600&auto=format&fit=crop&q=80",
+      "calories": 480,
+      "ingredients": ["70% Valrhona Dark Chocolate", "Piedmont Hazelnuts", "Praline Core", "Edible 24k Gold Leaf"],
+      "rating": 4.9,
+      "reviewsCount": 195,
+      "isBestSeller": true,
+      "isVegan": false,
+      "isGlutenFree": true,
+      "isChefSpecial": true
+    },
+    {
+      "id": "m9",
+      "name": "Smoked Rosemary & Hibiscus Spritz",
+      "description": "An elegant botanical mocktail featuring house-brewed wild hibiscus flower tea, cold-pressed grapefruit, fresh lime, sparkling tonic, served under a dome of smoked rosemary.",
+      "price": 14,
+      "category": "Mocktails",
+      "image": "https://images.unsplash.com/photo-1536935338788-846bb9981813?w=600&auto=format&fit=crop&q=80",
+      "calories": 95,
+      "ingredients": ["Hibiscus Tea", "Grapefruit Juice", "Sparkling Tonic", "Fresh Rosemary Smoke", "Dehydrated Blood Orange"],
+      "rating": 4.7,
+      "reviewsCount": 85,
+      "isBestSeller": false,
+      "isVegan": true,
+      "isGlutenFree": true,
+      "isChefSpecial": false
+    },
+    {
+      "id": "m10",
+      "name": "Slow-Drip Single Origin Kyoto Cold Brew",
+      "description": "12-hour slow-dripped Geisha single-origin coffee bean extraction, resulting in a clean, tea-like clarity with floral jasmine notes, served over a hand-carved ice sphere.",
+      "price": 12,
+      "category": "Beverages",
+      "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?w=600&auto=format&fit=crop&q=80",
+      "calories": 5,
+      "ingredients": ["Kyoto Slow-Drip Extraction", "Geisha Coffee Beans", "Hand-Carved Ice", "Mineral-Balanced Spring Water"],
+      "rating": 4.9,
+      "reviewsCount": 73,
+      "isBestSeller": true,
+      "isVegan": true,
+      "isGlutenFree": true,
+      "isChefSpecial": false
+    }
+  ],
+  "reservations": [
+    {
+      "id": "res-101",
+      "name": "Ayesha Khan",
+      "email": "ayesha.khan@example.com",
+      "phone": "+923001234567",
+      "date": "2026-07-20",
+      "time": "19:30",
+      "guests": 2,
+      "specialRequests": "Window table preferred, celebrating our 5th anniversary.",
+      "status": "Confirmed",
+      "tableNumber": 4,
+      "createdAt": "2026-07-15T09:00:00Z"
+    },
+    {
+      "id": "res-102",
+      "name": "Zain Malik",
+      "email": "zain.malik@example.com",
+      "phone": "+923339876543",
+      "date": "2026-07-22",
+      "time": "20:00",
+      "guests": 4,
+      "specialRequests": "Gluten-free menu card for two guests please.",
+      "status": "Pending",
+      "createdAt": "2026-07-15T09:45:00Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-201",
+      "items": [
+        {
+          "menuItem": {
+            "id": "m1",
+            "name": "Artisanal Burrata & Heirloom Tomatoes",
+            "price": 24,
+            "category": "Appetizers"
+          },
+          "quantity": 1
+        },
+        {
+          "menuItem": {
+            "id": "m4",
+            "name": "Wild Mushroom & Black Truffle Pappardelle",
+            "price": 38,
+            "category": "Mains"
+          },
+          "quantity": 2
+        }
+      ],
+      "subtotal": 100,
+      "discount": 20,
+      "deliveryFee": 0,
+      "total": 80,
+      "status": "Completed",
+      "type": "pickup",
+      "customerName": "Hamza Ali",
+      "customerEmail": "hamza.ali@example.com",
+      "customerPhone": "+923214567890",
+      "couponUsed": "GOLDEN20",
+      "createdAt": "2026-07-14T20:15:00Z"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "b1",
+      "title": "The Art of Cold-Pressed Sicilian Olive Oils",
+      "excerpt": "Discover how the microclimate of Mount Etna produces the finest liquid gold used in Olive & Beige’s signature recipes.",
+      "content": "In high-end gastronomy, olive oil is not merely a cooking medium; it is a vital ingredient that shapes the soul of a dish. At Olive & Beige, we source our single-varietal Nocellara del Belice olive oil directly from a multi-generational estate nestled on the volcanic slopes of Mount Etna, Sicily.\n\nWhat makes this oil exceptional is its early harvest in mid-October, when the olives are still vibrant green. Hand-picked and cold-pressed within four hours of harvest, the oil exhibits an intense emerald hue with tasting notes of fresh cut grass, green tomato, and a complex white pepper finish. We use this precious nectar raw—drizzling it over our signature Burrata and our salt-encrusted sea bass to elevate the natural aromatics of the food. Next time you dine with us, note the exquisite sensory transition this liquid gold brings to your palate.",
+      "category": "Culinary Secrets",
+      "author": "Executive Chef Mawiya",
+      "readTime": "4 min read",
+      "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=600&auto=format&fit=crop&q=80",
+      "date": "July 12, 2026",
+      "likes": 248,
+      "commentsCount": 14
+    },
+    {
+      "id": "b2",
+      "title": "Perfecting the Truffle Butter Emulsion",
+      "excerpt": "A masterclass from our head chef on emulsifying wild French black truffles into a rich pan sauce that clings perfectly to hand-rolled pasta.",
+      "content": "Creating a professional pasta emulsion is the divider between home cooking and luxury fine dining. The perfect sauce should be thick, glossy, and fully bonded to the pasta’s starch, rather than pooling watery liquid at the bottom of the bowl.\n\nTo achieve this, Chef Mawiya recommends cooking your pasta 2 minutes shy of al dente directly in salted boiling water. In a separate heavy-bottomed copper pan, heat rich cultured butter with a splash of starchy pasta-cooking water over low heat. Swirl the pan vigorously to create an emulsion before adding the pasta. The starch in the water acts as a natural stabilizer. Toss the hot pasta directly in the pan for 60 seconds, allowing the sauce to absorb. Finally, take the pan completely off the heat before shaving fresh winter truffles or folding in truffle butter. High heat destroys the delicate, volatile aromas of the truffle. Serves best with aged Pecorino Romano and a glass of Tuscan Sangiovese.",
+      "category": "Recipes",
+      "author": "Executive Chef Mawiya",
+      "readTime": "6 min read",
+      "image": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?w=600&auto=format&fit=crop&q=80",
+      "date": "June 28, 2026",
+      "likes": 312,
+      "commentsCount": 22
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg-1",
+      "name": "Sarah Ahmed",
+      "email": "sarah.ahmed@example.com",
+      "phone": "+923008887766",
+      "subject": "Corporate Catering Event",
+      "message": "Hi, I would like to inquire about booking the private dining lounge for a high-end corporate event of 30 guests on August 15th. Do you offer customized tasting menus paired with signature mocktails?",
+      "isRead": false,
+      "createdAt": "2026-07-15T08:12:00Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "r1",
+      "author": "Marcus Sterling",
+      "rating": 5,
+      "text": "The A5 Wagyu is otherworldly, practically melting in your mouth. The green olive butter was a spectacular pairing that showed extreme attention to detail. Easily the best dining experience in the country.",
+      "date": "July 10, 2026",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&auto=format&fit=crop&q=80",
+      "source": "Google"
+    },
+    {
+      "id": "r2",
+      "author": "Elena Rostova",
+      "rating": 5,
+      "text": "A sensory masterpiece. From the ambient lighting to the Kyoto cold brew, Olive & Beige strikes the ultimate balance of minimalist luxury. The AI Assistant chat on their site even helped recommend wine-pairing equivalents!",
+      "date": "July 08, 2026",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&auto=format&fit=crop&q=80",
+      "source": "Verified Guest"
+    },
+    {
+      "id": "r3",
+      "author": "Tariq Mahmood",
+      "rating": 5,
+      "text": "Incredible hospitality. Booking a table was seamless, and they accommodated my gluten-free request flawlessly. The handmade pappardelle was exceptional.",
+      "date": "July 02, 2026",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&auto=format&fit=crop&q=80",
+      "source": "Google"
+    }
+  ]
+}
